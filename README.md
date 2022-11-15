@@ -4,7 +4,7 @@ The list is from Chronicling America projects website https://chroniclingamerica
 
 Collection time 2022 Nov 14
 Observations:        49,957                  
-   Variables:            24
+Variables:            24
                 
 essay           strL    %9s  
 place_of_publ~n str74   %74s                  
