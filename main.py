@@ -25,7 +25,7 @@ for pageID in range(1,1001):
 
 
  
-
+# save as csv file
 filenamec= 'newspaper_US_directory_chroniclingamerica_1990-2022.csv'
 datacon.to_csv(filenamec, encoding='utf-8', header=True)
 
