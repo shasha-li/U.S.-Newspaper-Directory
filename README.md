@@ -1,11 +1,12 @@
 # U.S.-Newspaper-Directory
 The list is from Chronicling America projects website https://chroniclingamerica.loc.gov/search/titles/
-Collection time 2022 Nov 14
 
- Observations:        49,957                  
-    Variables:            24
+
+Collection time 2022 Nov 14
+Observations:        49,957                  
+   Variables:            24
                 
-essay           strL    %9s                   
+essay           strL    %9s  
 place_of_publ~n str74   %74s                  
 start_year      int     %8.0g                 
 publisher       str153  %153s                 
